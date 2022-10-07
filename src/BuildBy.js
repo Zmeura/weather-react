@@ -10,7 +10,7 @@ export default function BuildBy() {
             className="sourcelink"
             href="https://github.com/Zmeura/weather-react"
           >
-            Open-source code
+            Open-source code{" "}
           </a>
         </span>
         <span>
