@@ -1,0 +1,73 @@
+.currentcity {
+  color: #016fc6;
+  font-size: 54px;
+  font-weight: bold;
+  font-style: italic;
+  padding-left: 60px;
+  line-height: 80px;
+  text-shadow: 0px 1px 1px rgb(78, 77, 77);
+}
+
+.slash {
+  color: #4558c3;
+  font-size: 30px;
+  font-weight: bold;
+  text-shadow: 0px 1px 1px rgb(78, 77, 77);
+}
+
+.dayofweekanftime {
+  color: #016fc6;
+  font-size: 34px;
+  font-style: italic;
+  padding-left: 95px;
+}
+
+.weathericon {
+  font-size: 80px;
+  color: #4558c3;
+  padding-left: 100px;
+  position: relative;
+  bottom: 10px;
+}
+
+.currenttemperature {
+  color: #4558c3;
+  font-size: 60px;
+  font-weight: bold;
+  padding-left: 15px;
+  text-shadow: 0px 1px 1px rgb(78, 77, 77);
+  position: relative;
+  bottom: 19px;
+}
+
+.metric {
+  position: relative;
+  bottom: 19px;
+  text-shadow: 0px 0.5px 1px rgb(78, 77, 77);
+}
+
+.active {
+  color: #4558c3;
+}
+
+.noactive {
+  color: #64a5d7;
+}
+
+.noactive:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.fahrenheitelement,
+.celsiuselement {
+  font-size: 30px;
+  font-weight: bold;
+  padding-left: 5px;
+  text-decoration: none;
+}
+
+.fahrenheit:hover,
+.celsius:hover {
+  color: #4fa6e8;
+}

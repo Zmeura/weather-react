@@ -1,0 +1,18 @@
+.Cities {
+  color: #006ec5;
+  font-size: 24px;
+  font-weight: 700;
+  padding: 20px 70px;
+  text-shadow: 0px 0.5px 1px rgb(155, 150, 151);
+}
+
+.Col {
+  display: inline-block;
+  padding: 0 20px;
+  transform: all 200ms ease-in-out;
+}
+
+.Col:hover {
+  cursor: pointer;
+  color: #4fa6e8;
+}

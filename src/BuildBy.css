@@ -1,0 +1,13 @@
+.buildby {
+  position: absolute;
+  bottom: -35px;
+  left: 15px;
+}
+
+.sourcelink {
+  text-decoration: none;
+}
+
+.sourcelink:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,24 @@
+.App {
+  font-family: "Roboto", sans-serif;
+}
+
+.box {
+  position: relative;
+
+  background: radial-gradient(
+    circle at 10% 20%,
+    rgb(222, 168, 248) 0%,
+    rgb(168, 222, 248) 21.8%,
+    rgb(162, 240, 183) 37.6%,
+    rgb(237, 247, 158) 60.9%,
+    rgb(250, 227, 189) 71.8%,
+    rgb(248, 172, 172) 90%
+  );
+
+  border-color: #f4e711;
+  border-style: solid;
+  border-width: 2px;
+  width: 700px;
+  border-radius: 15px;
+  height: 480px;
+}

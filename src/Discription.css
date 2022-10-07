@@ -1,0 +1,14 @@
+.discription {
+  color: #348bc7;
+  position: absolute;
+  left: 420px;
+  bottom: 170px;
+  font-style: italic;
+  font-size: 22px;
+  line-height: 42px;
+  list-style-type: none;
+}
+
+.weatherdiscription {
+  text-transform: capitalize;
+}
