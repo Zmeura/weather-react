@@ -8,7 +8,7 @@ export default function BuildBy() {
         <span>
           <a
             className="sourcelink"
-            href="https://github.com/Zmeura/alina-weather-app"
+            href="https://github.com/Zmeura/weather-react"
           >
             Open-source code
           </a>
